@@ -3,11 +3,11 @@
 - name: LOGO
   value: '/brand-assets/logo.svg'
 - name: INSTALLATION_NAME
-  value: 'Chatwoot'
+  value: 'mixchat'
 - name: BRAND_URL
-  value: 'https://www.chatwoot.com'
+  value: 'https://www.trymixchat.com'
 - name: WIDGET_BRAND_URL
-  value: 'https://www.chatwoot.com'
+  value: 'https://www.trymixchat.com'
 - name: TERMS_URL
   value: 'https://www.chatwoot.com/terms-of-service'
 - name: PRIVACY_URL
@@ -21,6 +21,6 @@
 - name: CREATE_NEW_ACCOUNT_FROM_DASHBOARD
   value: false
 - name: BRAND_NAME
-  value: 'Chatwoot'
+  value: 'mixchat'
 - name: 'INSTALLATION_EVENTS_WEBHOOK_URL'
   value: 
